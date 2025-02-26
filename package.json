@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-redis-caching",
+  "version": "1.0.0",
+  "description": "Este proyecto revisa y optimiza el almacenamiento en caché de información al acceder a un endpoint, con el objetivo de mejorar la experiencia del usuario y aumentar el rendimiento de la aplicación.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "redis": "^4.7.0",
+    "response-time": "^2.3.3"
+  }
+}
